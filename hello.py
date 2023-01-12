@@ -85,7 +85,7 @@ def me_api():
         "image": "image file",
     }
 
-
+# https://flask.palletsprojects.com/en/2.2.x/quickstart/#sessions
 
 with app.test_request_context():
     print(url_for('hello_world'))
