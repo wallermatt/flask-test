@@ -1,0 +1,8 @@
+organization_name,total_charge,total_charge_inc_discount,vat_only,total_charge_inc_discount_and_vat
+LukeOrganisation1,1522.35,1217.8800,243.57600000000087,1461.4559999999974
+LukeTestingOrganisation,69.65,69.6500,13.93,83.58
+LukeTestingOrganisation2,19.90,19.9000,3.98,23.88
+LukeWoznickiTestingOrganization2,129.35,129.3500,25.869999999999994,155.22
+Qadre,9.95,9.9500,1.99,11.94
+"Richter & Marsh Law Firm, P.C.",49.75,49.7500,9.95,59.699999999999996
+Richter & Marsh LLP,358.20,358.2000,71.64,429.84
